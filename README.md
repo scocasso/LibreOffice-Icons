@@ -1,8 +1,8 @@
-Here you can find files for alternatives to the Main App icon for LibreOffice.
+Here you can find files for an alternative to the Main App icon of LibreOffice.
 
 For MacOS, icons can use jpg or png files.
 I have also provided png files for this purpose.
-Linux, icons can also use svg files.
+For Linux, icons can also use svg files.
 
 If you want a different size than I have provided, and know how to open and export the svg file as a jpg/png file, well, do this first.
 Software is required for this; Inkscape for example.
