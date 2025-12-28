@@ -1,3 +1,5 @@
+![new-libre-office-app-icon-v1](https://github.com/user-attachments/assets/bbeff571-35be-4c44-807b-de464ac8dd75)
+
 Here you can find files for an alternative to the Main App icon of LibreOffice.
 
 For MacOS, icons can use jpg or png files.
